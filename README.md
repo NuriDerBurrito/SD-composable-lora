@@ -1,3 +1,6 @@
+THIS FILE WASNT MADE BY ME , IT WAS RENAMED TO IGNORE THE WARNING
+
+
 # Composable LoRA
 This extension replaces the built-in LoRA forward procedure.
 
